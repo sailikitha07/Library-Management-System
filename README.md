@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224230046
+# Name:cholimgapuram sai likitha
+# Date:13.09.2025
 
 
 # AIM:
